@@ -7,4 +7,5 @@ This course covers the following topics:
 How NLP utilizes representation learning.
 How problems in NLP motivated novel deep learning approaches such as attention and self-attention.
 Architectures: RNN, Sequence-to-sequence model, Transformer.
-Applications:Financial Document Analysis, Question Answering, and Information Extraction
+
+Applications:Financial Document Analysis, Question Answering, and Information Extraction.
